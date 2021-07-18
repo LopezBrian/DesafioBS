@@ -1,0 +1,60 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    background-image: linear-gradient(to left, #004CBF, #8DC7EE );
+    font-size: 16px !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+}
+
+#header{
+    background-color: #1b262c !important;
+}
+
+header .navbar{
+    height: 150px !important;
+    background-color: #1b262c !important;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: #BBE1FA !important;
+}
+
+.carrusel{
+    width: 250px;
+    height: 250px;
+    margin: 15px auto;
+    margin-bottom: 70px;
+}
+
+.carrusel h2{
+    font-family: 'Nunito', sans-serif;
+    font-variant: small-caps;
+}
+
+.carousel-inner{
+    width: 220px;
+}
+
+.carousel-item img{
+    width: 220px !important;
+    border-radius: 7px;
+    border: 2px solid #1b262c !important;
+}
+
+.carousel-item h5{
+    font-size: 15px;
+}
+
+.marcas h2{    
+    font-family: 'Nunito', sans-serif;
+    font-variant: small-caps;
+}
+.marcas__logos img{
+    width: 280px;
+    background-color: #BBE1FAC4;
+    border: 4px solid #1b262c;
+    padding: 10px;
+    box-shadow: 10px 10px #051b2fdb;
+    margin: 10px;
+}
